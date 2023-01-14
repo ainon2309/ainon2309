@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Nur Ainon Binti Yusmadi
+I am Nur Ainon Binti Yusmadi.
+I’m currently working on edit the read.md file.
+I’m currently learning github.
 
 <!--
 **ainon2309/ainon2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
